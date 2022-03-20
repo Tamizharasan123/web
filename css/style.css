@@ -7,11 +7,11 @@ color:red;
 }
 body
 {
-background-color:#061586;
+background-color:violet;
 }
 #container
 {
-background-color:#061586;
+background-color:violet;
 
 width:100%;
 }
@@ -52,7 +52,7 @@ padding-bottom:20px;
 {
 width:45%;
 height:400px;
-background-color:#6097bd;
+background-color:yellow;
 float:left;
 padding:20px;
 }
@@ -60,7 +60,7 @@ padding:20px;
 {
 width:45%;
 height:450px;
-background-color:gray;
+background-color:yellow;
 float:right;	
 }
 .heading
@@ -71,10 +71,10 @@ font-size:40px;
 }
 .para1
 {
-font-size:35px;
+font-size:20px;
 
 }
 .para2
 {
-font-size:35px;
+font-size:20px;
 }
